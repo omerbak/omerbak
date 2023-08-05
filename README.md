@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
 <h3 align="center">A fullstack web developer</h3>
-<h4 align="center">Motivated by the power of technology to make a difference and create a better future.<br>Always curious to learn new technologies to improve and optimize my work</h4>
+<h4 align="center">Motivated by the power of technology to make a difference and create a better future<br>Always curious to learn new technologies to improve and optimize my work</h4>
 
 - 👨‍💻 All of my projects are available at [https://omerbak.github.io/Portofolio_website](https://omerbak.github.io/Portofolio_website)
 
